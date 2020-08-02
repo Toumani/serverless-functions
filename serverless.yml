@@ -1,0 +1,2 @@
+serverless-functions:
+ component: serverless-next.js
